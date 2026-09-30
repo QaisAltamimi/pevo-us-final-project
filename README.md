@@ -12,20 +12,16 @@ The purpose of this project is to provide trucking companies, drivers, and custo
 
 Project documentation is located in the docs folder and includes:
 
-- scope.md - Project Scope Statement
-
-- plan.md - Project Plan, risk analysis, and task schedule
-
-- retrospective.md - Final project reflection
+- [scope.md](docs/scope.md) - Project Scope Statement
+- [plan.md](docs/plan.md) - Project Plan, risk analysis, and task schedule
+- [retrospective.md](docs/retrospective.md) - Final project reflection
 
 ## Website Files
 
-- index.html - Main homepage
-
-- about.html - Second website page
-
-- style.css - External stylesheet used for both pages
-
+- [index.html](index.html) - Main homepage
+- [about.html](about.html) - Second website page
+- [style.css](style.css) - External stylesheet used for both pages
+- 
 ## Project Goal
 
 The goal of this project is to create a clear, organized, and responsive two-page website while applying the project management and web development concepts learned in this course.
