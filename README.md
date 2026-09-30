@@ -6,7 +6,7 @@ The purpose of this project is to provide trucking companies, drivers, and custo
 
 ## Live Website
 
-The live website link will be added here after GitHub Pages is published.
+[View the Live PEVO.US Website](https://qaisaltamimi.github.io/pevo-us-final-project/)
 
 ## Project Documentation
 
