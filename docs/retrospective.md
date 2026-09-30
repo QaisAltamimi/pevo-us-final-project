@@ -18,4 +18,6 @@ If I were starting this project again, I would begin earlier and divide the work
 
 I would also test the website after every major change instead of waiting until the end. This would make it easier to find problems early and reduce the amount of work needed before submission.
 
-Overall, this project helped me understand that planning, organization, testing, and reviewing the work are just as important as writing the code itself.
+Another improvement would be to use a checklist for file names, links, documentation requirements, and testing. This would help me avoid small mistakes and make the final review faster and more organized.
+
+Overall, this project helped me understand that planning, organization, testing, and reviewing the work are just as important as writing the code itself. In future projects, I will use smaller milestones and regular testing so I can manage my time better and catch problems earlier.
